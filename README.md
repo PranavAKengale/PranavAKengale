@@ -3,7 +3,7 @@
 <h3 align="center">A passionate problem solver with a strong interest in Software Development, Data Science, and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/coding-freak.gif">
 <br><br><br>
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **LLM Models**
 
 - 💬 Ask me about **Data Science/Machine Learning**
 
