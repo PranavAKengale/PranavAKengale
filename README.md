@@ -1,13 +1,13 @@
 <p align="center"><img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Image" /></p>
 <h1 align="center">Hi 👋, I'm Pranav Kengale</h1>
-<h3 align="center">A passionate problem solver with a strong interest in Software Development, Data Science, and Machine Learning</h3>
+<h3 align="center">A passionate problem solver with a strong interest in Data Science, and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/coding-freak.gif">
 <br><br><br>
 - 🌱 I’m currently learning **LLM Models**
 
 - 💬 Ask me about **Data Science/Machine Learning**
 
-- 📫 How to reach me **pranavkengale45@gmail.com**
+- 📫 How to reach me **pranavkengale23@gmail.com**
 
 - ⚡ Fun fact **I enjoy taking on new challenges.**
 
